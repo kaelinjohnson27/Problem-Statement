@@ -1,2 +1,2 @@
 # Problem-Statement
-Problem Statement for Project in Comp 121.
+The problem of homeless people trying to find available shelters is that there is no centralized or dependable system to keep them informed on the real-time capacity of each shelter. Current methods of accessing shelters, such as directly calling them or using other inefficient ways, can be dangerous and expose them to unsafe situations. Without accurate data on availability, thousands of people are left out from getting immediate shelter, thus exposing them to harsh weather conditions, violence, and other dangers.
